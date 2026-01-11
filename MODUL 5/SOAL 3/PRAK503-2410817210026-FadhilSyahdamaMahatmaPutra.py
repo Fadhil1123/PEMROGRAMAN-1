@@ -20,4 +20,5 @@ for n in nilai:
     maks = maksimal(maks, n)
     minim = minimal(minim, n)
 
-print(maks, minim)
+
+print(maks, minim
