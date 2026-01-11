@@ -21,4 +21,5 @@ for n in nilai:
     minim = minimal(minim, n)
 
 
-print(maks, minim
+print(maks, minim)
+
